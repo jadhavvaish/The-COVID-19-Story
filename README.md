@@ -2,14 +2,14 @@
 **The COVID-19 Story: Analyzing Data for Insights and Preparedness.**
 
 **Overview**
-Welcome to the **COVID-19 Data Exploration** and Visualization project! This project aims to explore, analyze and visualize the COVID-19 data to gain insights into the impact of the pandemic on various aspects such as infection rates, healthcare systems, and socio-economic factors. By leveraging SQL queries, we examine datasets to uncover trends, patterns, and correlations that can inform decision-making and public health strategies.
+Welcome to the **COVID-19 Data Exploration** and Visualization project! This project aims to explore, analyze, and visualize the COVID-19 data to gain insights into the impact of the pandemic on various aspects such as infection rates, healthcare systems, and socio-economic factors. By leveraging SQL queries, we examine datasets to uncover trends, patterns, and correlations that can inform decision-making and public health strategies.
 Later, **COVID-19 dashboard** is created using Tableau.The COVID-19 Data Visualization in Tableau aims to provide interactive and insightful visualizations of COVID-19 data to facilitate understanding, analysis, and decision-making during the pandemic. Leveraging Tableau's robust visualization capabilities, this project comprehensively explores key COVID-19 metrics, trends, and patterns.
 
-**This proejcts follows 2 major steps:**
+**This project follows 2 major steps:**
 
 1.*Data Exploration using SQL*(Here MS-SQL Server is used) and,
 
-2.**Creating a Covid-19 Dashboard* using Tableau.
+2.*Creating a Covid-19 Dashboard* using Tableau.
 
 **Data Sources📈**
 Analyzing data sources from **https://ourworldindata.org/covid-deaths** to understand the progression and impact of COVID-19 across different regions and timeframes.
@@ -19,7 +19,7 @@ Analyzing data sources from **https://ourworldindata.org/covid-deaths** to under
 -Investigate the relationship between COVID-19 metrics and demographic variables.
 -Explore the impact of interventions (e.g., lockdowns, vaccinations) on the spread of the virus.
 -Identify regional disparities and hotspots of infection.
--Create interactive dashboard that allow users to filter, drill down, and analyze data dynamically.
+-Create an interactive dashboard that allows users to filter, drill down, and analyze data dynamically.
 
 **Methodologies**
 **STEPS -**
@@ -59,7 +59,7 @@ Run SQL scripts in the /scripts directory in sequential order.
 Review the output files and visualizations in the /results directory.
 **Usage**
 Modify SQL queries or scripts as needed for custom analysis.
-Refer to documentation for detailed explanations of data sources and methodologies.
+Refer to the documentation for detailed explanations of data sources and methodologies.
 Share findings with stakeholders and decision-makers for informed decision-making.
 
 
