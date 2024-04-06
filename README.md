@@ -1,8 +1,10 @@
 # The-COVID-19-Story( Data Exploration and Visualization- Covid-19 Dashboard)
-The COVID-19 Story: Analyzing Data for Insights and Preparedness
+The COVID-19 Story: Analyzing Data for Insights and Preparedness.
+
 **Overview**
 Welcome to the **COVID-19 Data Exploration** and Visualization project! This project aims to explore, analyze and visualize the COVID-19 data to gain insights into the impact of the pandemic on various aspects such as infection rates, healthcare systems, and socio-economic factors. By leveraging SQL queries, we examine datasets to uncover trends, patterns, and correlations that can inform decision-making and public health strategies.
 Later, **COVID-19 dashboard** is created using Tableau.The COVID-19 Data Visualization in Tableau aims to provide interactive and insightful visualizations of COVID-19 data to facilitate understanding, analysis, and decision-making during the pandemic. Leveraging Tableau's robust visualization capabilities, this project comprehensively explores key COVID-19 metrics, trends, and patterns.
+
 **This proejcts follows 2 major steps:**
 1.*Data Exploration using SQL*(Here MS-SQL Server is used) and,
 2.**Creating a Covid-19 Dashboard* using Tableau.
@@ -19,6 +21,7 @@ Analyzing data sources from **https://ourworldindata.org/covid-deaths** to under
 
 **Methodologies**
 **STEPS -**
+
 **1.Data Cleaning**
 The Covid data from 'OurWorldData' is  cleaned and converted into 2 different datasets using Excel 
 1. Covid Deaths Dataset - Contains the data about Covid deaths in the world till Dec 2023.
@@ -38,6 +41,7 @@ Features of Dashboard
 
 **Data Visualization is performed on Tableau Public - Covid-19 Dashboard**
 https://public.tableau.com/app/profile/vaishnavi.jadhav3927/viz/COVID-19Dashboard_17074713773700/Dashboard1
+
 <img width="801" alt="image" src="https://github.com/jadhavvaish/Covid-19-Data-Visualization/assets/81427041/d89fac8f-a6b4-4eb5-a4a6-a7e67de7372d">
 
 
