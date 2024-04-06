@@ -6,7 +6,9 @@ Welcome to the **COVID-19 Data Exploration** and Visualization project! This pro
 Later, **COVID-19 dashboard** is created using Tableau.The COVID-19 Data Visualization in Tableau aims to provide interactive and insightful visualizations of COVID-19 data to facilitate understanding, analysis, and decision-making during the pandemic. Leveraging Tableau's robust visualization capabilities, this project comprehensively explores key COVID-19 metrics, trends, and patterns.
 
 **This proejcts follows 2 major steps:**
+
 1.*Data Exploration using SQL*(Here MS-SQL Server is used) and,
+
 2.**Creating a Covid-19 Dashboard* using Tableau.
 
 **Data Sources📈**
