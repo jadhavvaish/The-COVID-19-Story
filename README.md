@@ -1,5 +1,5 @@
 # The-COVID-19-Story( Data Exploration and Visualization- Covid-19 Dashboard)
-The COVID-19 Story: Analyzing Data for Insights and Preparedness.
+**The COVID-19 Story: Analyzing Data for Insights and Preparedness.**
 
 **Overview**
 Welcome to the **COVID-19 Data Exploration** and Visualization project! This project aims to explore, analyze and visualize the COVID-19 data to gain insights into the impact of the pandemic on various aspects such as infection rates, healthcare systems, and socio-economic factors. By leveraging SQL queries, we examine datasets to uncover trends, patterns, and correlations that can inform decision-making and public health strategies.
